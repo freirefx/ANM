@@ -1,4 +1,0 @@
-Onde consigo obter um certificado digital?
-==========================================
-
-Em qualquer uma das Autoridades Certificadoras ICP Brasil, que podem ser consultadas no site: https://estrutura.iti.gov.br/

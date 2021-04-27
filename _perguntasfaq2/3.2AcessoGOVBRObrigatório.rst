@@ -1,6 +1,0 @@
-O acesso via GoV.BR é obrigatório para uso do Protocolo Digital?
-==================================================================================
-
-Sim! Em qualquer das situações (seja usando o login e senha da CTDM, certificado digital ou representando empresas), o acesso inicial sempre será por meio do Gov.BR, tanto para pessoas jurídicas como para pessoas físicas. 
-
-O cadastro no Gov.BR é gratuito e está disponível a todos os cidadãos brasileiros pelo site https://acesso.gov.br/.
