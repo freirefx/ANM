@@ -1,0 +1,6 @@
+Não tenho e-CNPJ. Qual tipo de certificado digital devo adquirir para minha empresa?
+==================================================================
+
+O certificado digital pode ser do tipo A1 ou A3, independente do suporte, conforme admitido pelos requisitos do Gov.BR
+
+Deverá ser emitido por uma das Autoridades Certificadoras da ICP-Brasil, que podem ser consultadas no site: https://estrutura.iti.gov.br/
